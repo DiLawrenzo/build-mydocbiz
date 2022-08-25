@@ -1,0 +1,2 @@
+# mydocbiz
+ Static site
